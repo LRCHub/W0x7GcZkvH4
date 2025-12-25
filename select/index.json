@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "RUN2U",
+  "base_artist": "STAYC",
+  "createdAt": "2025-12-25T02:15:51.772142Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RUN2U",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/01_RUN2U_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RUN2U (TAK Remix)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/02_RUN2U_(TAK_Remix)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RUN2U",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/03_RUN2U_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RUN2U",
+      "artist": "STAYC (스테이씨)",
+      "has_synced": true,
+      "path": "select/04_RUN2U_STAYC_(스테이씨).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RUN2U (RUN2U)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/05_RUN2U_(RUN2U)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "RUN2U (RUN2U)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/06_RUN2U_(RUN2U)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Run2u",
+      "artist": "Soren",
+      "has_synced": true,
+      "path": "select/07_Run2u_Soren.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RUN2U (RUN2U)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/08_RUN2U_(RUN2U)_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RUN2U",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/09_RUN2U_STAYC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "RUN2U (TAK remix)",
+      "artist": "STAYC",
+      "has_synced": true,
+      "path": "select/10_RUN2U_(TAK_remix)_STAYC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUN2U",
+      "artist": "STAYC",
+      "has_synced": false,
+      "path": "select/pl_01_RUN2U_STAYC.txt"
+    }
+  ]
+}
