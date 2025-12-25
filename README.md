@@ -1,0 +1,74 @@
+# STAYC – RUN2U
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.41] Run!
+[00:03.41] 
+[00:16.44] Told you not 또 괜한 기대
+[00:19.67] 겉으론 걱정해, 난 안 바뀌네
+[00:22.96] 또 가끔 말을 막 해, 너무 딱해
+[00:25.49] 헛소리들 나는 안 들리네, no, oh, yeah
+[00:31.73] Told you, 난 so always b-day
+[00:34.69] 겉으론 내 편인데 못해 이해
+[00:38.29] 그 참견들은 가짜, 나는 바빠
+[00:40.56] 어떻게 해도 나는 안 들리네, no, no, oh
+[00:54.06] 
+[00:46.44] 타 버리고 파 너의 사랑은 so sunny, yeah
+[00:51.33] 사라져도, 사라져도
+[00:53.95] 다 버리고 파 너만 있다면 no worry, yeah
+[00:58.38] 알잖아 it should be you
+[01:08.38] 
+[01:00.95] So I'll run to you
+[01:04.40] So I'll run to you
+[01:08.09] 선을 넘는 거래도 over and over
+[01:11.84] 다쳐도 괜찮아, I'll run to you
+[01:15.56] So I'll run to you
+[01:24.56] 
+[01:16.81] A little bit, little bit (young)
+[01:18.77] A little bit, little bit (young)
+[01:20.59] A little bit, little bit (알지 나의 style)
+[01:22.92] 네가 어떤 너래도 over and over
+[01:26.97] 다쳐도 괜찮아, I'll run to you
+[01:38.97] 
+[01:30.31] JJ! 물불 안 가리는 type (type)
+[01:32.96] I never 절대로 도도
+[01:34.84] 망가질 수 없는 사이 (ooh)
+[01:36.95] 알잖아, I'm not a poser
+[01:38.37] 혹시라도 잘못돼도 절대 너를 탓하지 않아
+[01:43.28] 그게 어디라도 wanna be there
+[01:54.28] 
+[01:45.34] 타 버리고 파 너의 사랑은 so sunny, yeah
+[01:50.27] 사라져도, 사라져도
+[01:53.18] 다 버리고 파 너만 있다면 no worry, yeah
+[01:57.88] 알잖아 it should be you
+[02:07.88] 
+[01:59.94] So I'll run to you
+[02:03.43] So I'll run to you
+[02:07.49] 선을 넘는 거래도 over and over
+[02:11.27] 다쳐도 괜찮아, I'll run to you
+[02:14.62] So I'll run to you
+[02:23.62] 
+[02:16.07] A little bit, little bit (young)
+[02:17.83] A little bit, little bit (young)
+[02:19.87] A little bit, little bit (알지 나의 style)
+[02:22.50] 네가 어떤 너래도 over and over
+[02:25.97] 다쳐도 괜찮아, I'll run to you
+[02:37.97] 
+[02:29.33] No, no, that's okay, that's okay, 누가 뭐래도
+[02:33.66] No, 괜찮아, 아플 거래도
+[02:36.47] 상관없어, 멋대로 생각해도 돼
+[02:40.01] 막지 못해 널 사랑하기 때문에 (ayy)
+[02:51.01] 
+[02:58.79] So I'll run to you (you, ooh-ooh)
+[03:02.73] So I'll run to you (whatever, whenever, baby, babe)
+[03:06.42] 선을 넘는 거래도 over and over (over)
+[03:10.38] 다쳐도 괜찮아, I'll run to you
+[03:13.92] So I'll run to you
+[03:22.92] 
+[03:14.83] A little bit, little bit (young)
+[03:17.05] A little bit, little bit (young)
+[03:18.73] A little bit, little bit (알지 나의 style)
+[03:21.49] 네가 어떤 너래도 over and over
+[03:25.09] 다쳐도 괜찮아, I'll run to you
+```
